@@ -1,1 +1,2 @@
 este es el contenido base
+Esta es la segunda linea añadida del documento.
